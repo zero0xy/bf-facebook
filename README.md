@@ -7,6 +7,6 @@
     $ pip2 install mechanize
     $ git clone https://github.com/zero0xy/bf-facebook
     $ cd bf-facebook
-    $ chmod bf-fb.py
+    $ chmod 777 bf-fb.py
     $ python3 bf-fb.py
 
