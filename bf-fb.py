@@ -46,7 +46,7 @@ def function(email,passw,i):
 	return False
 
 print('\n---------- Welcome To RED_BACKED-FB-BruteForce ----------\n')
-file=open('passwords.txt','r')
+file=open('password.txt','r')
 
 email=input('Enter Email/Username : ')
 
